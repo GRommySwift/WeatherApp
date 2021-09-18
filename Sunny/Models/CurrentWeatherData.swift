@@ -2,9 +2,6 @@
 //  CurrentWeatherData.swift
 //  Sunny
 //
-//  Created by Mac on 17.09.2021.
-//  Copyright © 2021 Ivan Akulov. All rights reserved.
-//
 
 import Foundation
 
